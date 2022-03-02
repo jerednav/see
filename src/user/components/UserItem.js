@@ -7,6 +7,9 @@ import "./UserItem.css";
 
 const UserItem = (items) => {
   return (
+    /* li tags to list all users
+    //card components to wrap each user with a card layout
+    */
     <>
       <li className='user-item'>
         <Card className='user-item__content'>
