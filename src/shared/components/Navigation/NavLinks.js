@@ -5,7 +5,7 @@ import "./NavLinks.css";
 
 const NavLinks = (props) => {
   return (
-    <ul class='nav-links'>
+    <ul className='nav-links'>
       <li>
         <NavLink to='/' exact>
           ALL USERS
